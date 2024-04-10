@@ -1,4 +1,4 @@
-###  :man_technologist:  [WangNingkai](https://wangningkai.github.io)
+###  :man_technologist:  [Vitalik Vakulenko](https://vakulenko.vercel.app/)
 
 👋 Hi, I'm Vitalik,a passionate software developer and cs student from Ukraine 🚀. 
 
