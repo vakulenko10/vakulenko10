@@ -7,11 +7,9 @@
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source 🔥    
--  **Languages :** JavaScript, C#
--  **Hobbies :** Basketball 🏀 & Football ⚽ & Table tennis 🏓
--  **Fact :** First try to understand the complexity of the task, think and write the code 🧠
--  **Contact me :** [Vitalik Vakulenko](mailto:vakulenkoforwork@gmail.com)
+-  **Learning :** Full-Stack Development |🔥    
+-  **Languages :** JavaScript, C# | 👅
+-  **Contact me :** [Vitalik Vakulenko](mailto:vakulenkoforwork@gmail.com) | ⚡
 
 
 ### Languages and Tools
