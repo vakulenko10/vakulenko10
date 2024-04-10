@@ -31,5 +31,5 @@
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love networking.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>😊</em>
-### [my linkedin:]([https://vakulenko.vercel.app/](https://www.linkedin.com/in/vitalik-vakulenko/))
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love networking.</b> So if you want to grow your network <b>I'll be happy to follow you!</b>😊</em>
+### [my linkedin](https://www.linkedin.com/in/vitalik-vakulenko/)
