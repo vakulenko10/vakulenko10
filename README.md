@@ -28,7 +28,7 @@
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/mongodb-icon-2048x2048-cezvpn3f.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png"></code>
 
-
+### [click this link to visit my portfolio website](https://vakulenko.vercel.app/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love networking.</b> So if you want to grow your network <b>I'll be happy to follow you!</b>😊</em>
 ### [my linkedin](https://www.linkedin.com/in/vitalik-vakulenko/)
