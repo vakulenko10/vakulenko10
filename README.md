@@ -8,7 +8,8 @@
 ### About
 
 -  **Learning :** Full-Stack Development |🔥    
--  **Languages :** JavaScript, C# | 👅
+-  **Backend :** Node js, TypeScript C#, Python, Java | 👅
+-  **Frontend :** React, JS UI libraries, Tailwindcss
 -  **Contact me :** [Vitalik Vakulenko](mailto:vakulenkoforwork@gmail.com) | ⚡
 
 
