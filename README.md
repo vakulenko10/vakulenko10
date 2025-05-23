@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi, I'm **Vitalik**, a passionate **Full-Stack Developer** and **Computer Science student**. Love **React, TypeScript, Next.js**, and all modern technologies
+Hi, I'm **Vitalik**, a passionate **Full-Stack Developer** and **CS student**. Love **React, TypeScript, Next.js**, and all modern technologies
 
 ---
 
