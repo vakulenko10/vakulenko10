@@ -36,30 +36,4 @@ Hi, I'm **Vitalik**, a passionate **Full-Stack Developer** and **CS student**. L
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" alt="Docker"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="30" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
 </p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vakulenko10&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" width="47%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakulenko10&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vakulenko10&hide_border=true&theme=transparent" alt="GitHub Streak" width="95%"/>
-</p>
-
----
-
-### 📬 Let's Connect
-
-- 🌐 Website: [vakulenko.vercel.app](https://vakulenko.vercel.app/)
-- 💼 LinkedIn: [Vitalik Vakulenko](https://www.linkedin.com/in/vitalik-vakulenko)
-- 📬 Email: [vakulenkoforwork@gmail.com](mailto:vakulenkoforwork@gmail.com)
-
----
